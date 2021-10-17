@@ -8,6 +8,9 @@ Developed by .NET 5 -  HttpClient sample project which consume third part API fr
 
 # Frontend frameworks
 Bootstrap
+
 Jquery 3.5.1
+
 Boostrap Selectpicker
+
 Jquery DataTable
